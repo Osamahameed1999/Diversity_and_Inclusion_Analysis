@@ -1,29 +1,29 @@
 
 # Telecom Client Diversity and Inclusion Analysis
 
-## Project Description:
+## Project Description
 
 This project aims to address the slow progress of gender balance at the executive management level in a telecom client's Human Resources department. As part of the PwC virtual experience program, the project focuses on leveraging data analytics to identify insights and provide recommendations for improving diversity and inclusion within the organization.
 
-## Project Steps:
+## Project Steps
 
-### 1. Data Exploration: 
+### 1. Data Exploration
 
 The project begins with a thorough exploration of the provided dataset to gain an understanding of its structure and contents.
 
-### 2. Data Transformation and Cleaning:
+### 2. Data Transformation and Cleaning
 This step involves cleaning the data by removing irrelevant sheets and mapping essential attributes for analysis. The dataset is refined to ensure accuracy and consistency.
 
-### 3. KPI Definition: 
+### 3. KPI Definition 
 Relevant Key Performance Indicators (KPIs) are defined based on stakeholder requirements and a comprehensive understanding of the data. The KPIs are aligned with areas such as hiring, promotion, performance, and turnover.
 
-### 4. Measure Calculation using DAX: 
+### 4. Measure Calculation using DAX 
 Measures that are crucial for each KPI are calculated using Data Analysis Expressions (DAX) in Power BI. These measures provide meaningful insights into the selected KPIs.
 
-### 5.Visualization: 
+### 5.Visualization 
 The project includes the creation of five dashboards, each dedicated to a specific KPI. These dashboards present visual representations of the KPI data. Additionally, a welcome page summarizes the key findings from the visualizations.
 
-## The KPIs:
+## The KPIs
 
 ### KPI #1: Hiring by Gender and Position: 
 
@@ -72,34 +72,34 @@ This KPI examines the demographic composition of the workforce based on gender a
 - For directors, 36% are in the 30-39 age bracket and 57.58% in the 40-49 age bracket.
 - Among executives, 10% are in the 30-39 age bracket, 68% in the 40-49 age bracket, 10% in the 50-59 age bracket, and 10% in the 60-69 age bracket.
 
-## Recommendations:
+## Recommendations
 Based on the insights obtained from the analysis, the following recommendations can be made to address the slow progress of gender balance at the executive management level:
 
-### Hiring and Recruitment:
+### Hiring and Recruitment
 
 Implement diversity-focused recruitment strategies to attract a more balanced pool of candidates for executive positions.
 Review the hiring process and ensure fair and equal opportunities for candidates of all genders across all job positions.
 Consider setting targets or quotas to promote gender diversity in executive-level hiring.
 
-### Promotions and Advancement:
+### Promotions and Advancement
 
 Conduct a comprehensive review of the promotion process to identify potential biases and barriers that may hinder gender-balanced promotions.
 Provide mentorship and leadership development programs specifically targeted at women employees to enhance their chances of advancement.
 Implement transparent and objective performance evaluation criteria to ensure fair promotion decisions.
 
-### Retention and Turnover:
+### Retention and Turnover
 
 Conduct exit interviews to understand the reasons behind high turnover rates, especially among men at the executive level.
 Address any identified issues related to work environment, career development opportunities, or work-life balance that may contribute to turnover.
 Develop initiatives to create an inclusive and supportive work culture that encourages employee retention and engagement.
 
-### Performance Evaluation:
+### Performance Evaluation
 
 Review the performance evaluation process to ensure objectivity and fairness, considering potential biases that may affect ratings.
 Provide training to managers on unconscious bias and promote awareness of gender-related biases in performance assessments.
 Implement regular feedback mechanisms to support employee growth and improvement.
 
-### Demographic Representation:
+### Demographic Representation
 
 Continuously monitor and analyze the demographic composition of the workforce to identify potential areas of underrepresentation and take proactive steps to address them.
 Encourage diversity and inclusion initiatives within the organization, promoting a culture that values and appreciates different perspectives and backgrounds.
